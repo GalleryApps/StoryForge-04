@@ -1,0 +1,7 @@
+{
+  "name": "StoryForge Publishing Studio",
+  "description": "Professional AI-powered book authoring, illustration, and publishing studio with structured multi-level memory, typography engine, and high-fidelity PDF book export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
